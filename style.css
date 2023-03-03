@@ -23,14 +23,11 @@ body {
   nav li a {
 	color: #fff;
 	text-decoration: none;
+    transition: 0.5ms
   }
   
   main {
 	margin: 20px;
-  }
-
-  p {
-    transition: 0.5ms
   }
   
   footer {
