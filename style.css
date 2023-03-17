@@ -41,7 +41,7 @@ p {
 }
 
 #navbar ul li {
-  
+  float: left;
 }
 
 #navbar ul li a {
