@@ -60,7 +60,7 @@ p {
   margin: auto;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   #navbar ul {
       float: left;
       margin-left: 20px;
