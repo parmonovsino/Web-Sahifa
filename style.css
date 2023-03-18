@@ -67,6 +67,6 @@ p {
   }
 
   #navbar h1 {
-      display: 100000px;
+      font-size: 100000px;
   }
 }
