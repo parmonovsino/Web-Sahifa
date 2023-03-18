@@ -63,6 +63,9 @@ p {
 @media only screen and (max-width: 1000px) {
   #navbar ul {
       float: left;
-      margin-left: 50px;
+  }
+
+  .img {
+    background: url(images/oppoq.png);
   }
 }
