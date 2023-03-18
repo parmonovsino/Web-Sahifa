@@ -67,6 +67,6 @@ p {
   }
 
   #navbar h1 {
-      display: none;
+      display: 1000px;
   }
 }
