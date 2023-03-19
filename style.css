@@ -55,4 +55,9 @@ html {
   #navbar h1 {
     text-align: center;
   }
+
+  p {
+    max-width: 580px;
+    margin: auto;
+  }
 }
