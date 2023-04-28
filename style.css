@@ -43,7 +43,7 @@ html {
 
 #navbar ul li a:hover,
 #navbar ul li a.current:active {
-  background-color: blue;
+  background-color: #444;
   color: #f7c08a;
 }
 
@@ -53,7 +53,7 @@ html {
 }
 
 footer {
-  background-color: #333;
+  background-color: blue;
   margin-top: 45%;
   text-align: center;
   padding-top: 20px;
