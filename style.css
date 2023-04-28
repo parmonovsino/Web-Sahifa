@@ -43,7 +43,7 @@ html {
 
 #navbar ul li a:hover,
 #navbar ul li a.current:active {
-  background-color: #444;
+  background-color: blue;
   color: #f7c08a;
 }
 
